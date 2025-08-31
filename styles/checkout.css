@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.checkout_layout{
+  max-height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../images/bc1/aboutbackground.png);
+}
+
+.returnCart{
+  max-height: 640px;
+  margin: 20px;
+  padding: 18px;
+  border: 1px solid rgb(142, 8, 244);
+  box-shadow: 0 2px 20px rgb(142, 8, 244);
+  border-radius: 10px;
+  background-color: #47497e55;
+  overflow: auto;
+}
+
+.returnCart::-webkit-scrollbar{
+  width: 0;
+}
+
+.returnCart a{
+  margin-top: 30px;
+  text-decoration: none;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  text-shadow: 0 1px 5px rgb(217, 173, 251);
+}
+
+.returnCart h1{  
+  padding: 20px 0;
+  font-weight: 500px;
+  text-align: center;
+  color: rgb(251, 250, 247);
+  text-shadow: 0 2px 5px rgb(142, 8, 244);
+}
+
+.returnCart .list{
+  background-color: transparent;
+  border-radius: 10px;
+
+}
+.returnCart .list .item{
+  display: grid;
+  grid-template-columns: 150px 1fr  50px 80px;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 0;
+  padding: 10px;
+  background-color: transparent;
+  border-bottom: 1px solid rgba(142, 8, 244, 0.544);
+  border-radius: 30px;
+}
+
+
+.returnCart .list .item img{
+  height: 50px;
+  margin-left: 10px;
+}
+
+.returnCart .list .item .name{
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.returnCart .list .item .quantity{
+  color: #fff;
+}
+
+.returnCart .list .item .price{
+  font-size: 12px;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.returnCart .list .item .returnPrice{
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(255, 196, 3);
+  letter-spacing: 1px;
+}
+
+.checkoutLayout .right .return .row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.checkoutLayout .right .return .row div:nth-child(2){
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.totalQuantity{
+  color: #fff;
+}
+.totalPrice{
+  color: rgb(255, 196, 3);
+}
+
+.confirmbox{
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  justify-content: center;
+  align-items: center;
+}
+
+.confirmcontent{
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.confirmcontent h2{
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #334151;
+}
+
+
+.confirmcontent p{
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #5b6e84;
+}
+
+.confirmcontent .confirmbutton{
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.confirmcontent .confirmbutton:hover{
+  background-color: #218838;
+}
+
+.confirmcontent .confirmbutton:active{
+  background-color: #196429;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(218, 196, 216);
+    margin: 20px;
+    padding: 30px;
+    border: 1px solid rgb(142, 8, 244);
+    box-shadow: 0 2px 20px rgb(142, 8, 244);
+    border-radius: 10px;
+    background-color: #47497e55;
+    max-height: 640px;
+}
+
+.container form {
+    width: 700px;
+    padding: 40px;
+    background: transparent;
+    border-radius: 10px;
+}
+
+form .row {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.row .column {
+    flex: 1 1 250px;
+}
+
+.column .title {
+    font-size: 20px;
+    color: rgb(251, 250, 247);
+    text-shadow: 0 2px 5px rgb(142, 8, 244);
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.column .input-box {
+    margin: 15px 0;
+}
+
+.input-box span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input-box input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+.column .flex {
+    display: flex;
+    gap: 15px;
+}
+
+.flex .input-box {
+    margin-top: 5px;
+}
+
+.input-box img {
+    height: 34px;
+    margin-top: 5px;
+    margin-right: 20px;
+    background-color: white;
+}
+
+form .btn {
+    width: 100%;
+    padding: 12px;
+    background: #8175d3;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    font-size: 17px;
+    color: #fff;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+form .btn:hover {
+    background: #6a5acd;
+}

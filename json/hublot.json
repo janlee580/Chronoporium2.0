@@ -1,0 +1,74 @@
+[
+  {
+    "id": 16,
+    "name": "Classic Fusion Zirconium",
+    "brand": "Hublot",
+    "collection": "Classic Fusion",
+    "reference": "561.ZX.1170.RX",
+    "price": 4700 ,
+    "image": "images/hublot/h1-classic-fusion-zirconium.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Classic Fusion All Black",
+    "brand": "Hublot",
+    "collection": "Classic Fusion",
+    "reference": "561.CM.1110.RX",
+    "price": 6100 ,
+    "image": "images/hublot/h2-classic-fusion.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Classic Fusion ",
+    "brand": "Hublot",
+    "collection": "Classic Fusion",
+    "reference": "511.NX.1170.RX",
+    "price": 6100 ,
+    "image": "images/hublot/h3-classic-fusion.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Big Bang Steel Ceramic",
+    "brand": "Hublot",
+    "collection": "Big Bang",
+    "reference": "365.SM.1170.LR",
+    "price": 7400 ,
+    "image": "images/hublot/h4-big-bang-steel-ceramic.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Classic Fusion Chronographe",
+    "brand": "Hublot",
+    "collection": "Classic Fusion",
+    "reference": "541.NX.1170.LR",
+    "price": 8700 ,
+    "image": "images/hublot/h5-classic-fusion-chronographe.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Classic Fusion Chrono Tour Auto",
+    "brand": "Hublot",
+    "collection": "Classic Fusion",
+    "reference": "521.NX.2612.VR.TRA13",
+    "price": 10500 ,
+    "image": "images/hublot/h6-classic-fusion-chrono-tour-auto.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Big Bang Integral Ceramic",
+    "brand": "Hublot",
+    "collection": "Big Bang",
+    "reference": "451.HX.1123.HX",
+    "price": 22700 ,
+    "image": "images/hublot/h7-big-bang-integral-ceramic.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Big Bang Integral Ceramic",
+    "brand": "Hublot",
+    "collection": "Big Bang",
+    "reference": "451.GX.5220.GX",
+    "price": 23800 ,
+    "image": "images/hublot/h8-big-bang-integral-ceramic.jpg"
+  }
+]

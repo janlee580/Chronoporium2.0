@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>chronoporium//home.shop</title>
+  <link rel="stylesheet" href="styles/style.css">
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      document.addEventListener('scroll', () => {
+        let navBar = document.querySelector('nav');
+        if (window.scrollY > 0){
+          navBar.style.boxShadow = '0 5px 20px #555555';
+        }
+        else{
+          navBar.style.background = '#F8F8F8';
+          navBar.style.boxShadow = 'none';
+        }
+
+      })
+    })
+  </script>
+</head>
+<body style="background-image: url(images/bc1/1.png); 
+background-repeat: no-repeat; 
+background-size: 100% 100%;">
+  
+  <!--Navigation-->
+  <nav>
+    <div id="navbar">
+
+      <div id="navbar-logo">
+        <img src="images/logo/web-logo-removebg-preview.png" alt="company logo" width="150" height="50">
+      </div>
+
+      <div id="navbar-links">
+
+        <ul>
+          <li><a href="#index.html">Home</a></li>
+          <li><a href="products.html">Explore</a></li>
+          <li><a href="#footer-top">Contacts</a></li>
+          <li><a href="#about-container">About</a></li>
+        </ul>
+
+      </div>
+      
+    </div>
+  </nav>
+
+  <!--TOP-->
+  <div id="home-top-container" >
+    <div id="home-top-wrapper">
+      <div id="home-top-tagline">
+        <h1>
+          High-quality watches for every ocassion
+        </h1>
+        <p>
+          With the best quality materials to produce luxurious
+          and elegant products 
+        </p>
+        <button class="shop-button">
+          <a href="products.html">View Shop</a>
+        </button>
+      </div>
+      <div id="home-top-image">
+        <img src="images/newBlack_Elegant_Watch_Shop_Website_Desktop_Prototype__1_-removebg-preview.png" alt="Watch" width="550" height="550">
+      </div>
+    </div>
+  </div>
+
+  <!--ABOUT-->
+
+  <div id="about-container" >
+
+    <h1>ABOUT CHRONOPORIUM</h1>
+
+    <p>Welcome to Chronoporium, your ultimate destination for high-quality timepieces that define elegance and precision. Our name blends two timeless concepts: Chrono, meaning time, and Emporium, a place of discovery. At Chronoporium, we believe that a watch is not just an accessory, but a statement of craftsmanship and style.</p>
+
+    <div id="about-wrapper1">
+      <div id="about-wrapper">
+        <h2>Our Story</h2>
+        <p>Chronoporium was born from a passion for fine watches and the art of horology. Founded by [Your Name] (or “our team”), we set out with one mission: to bring you a curated collection of luxury timepieces that cater to both the discerning collector and the everyday wearer. With years of expertise in the watch industry, we carefully select each watch in our store to ensure it meets the highest standards of quality and precision.</p>
+      </div>
+  
+      <div id="about-wrapper">
+        <h2>What We Offer</h2>
+        <p>At Chronoporium, we offer an exclusive range of watches, from classic designs to modern innovations, all crafted by renowned brands known for their exceptional quality and heritage. Whether you're looking for a statement piece, a versatile daily wear, or a special gift for a loved one, we have something to suit every taste and occasion.</p>
+      </div>
+
+    </div>
+    
+    <div id="about-wrapper1">
+      <div id="about-wrapper">
+        <h2>Why Choose Chronoporium?</h2>
+        <p>We pride ourselves on delivering more than just a timepiece, we provide an experience. Each watch in our collection is handpicked for its craftsmanship, functionality, and aesthetic appeal. Our commitment to quality ensures that every watch we sell is not just a product, but a lasting investment in style and reliability.
+  
+        What sets us apart is our dedication to customer satisfaction. With a focus on personalized service, we help guide you in selecting the perfect watch, whether it's your first luxury piece or an addition to your collection.</p>
+      </div>
+  
+      <div id="about-wrapper">
+        <h2>Our Values</h2>
+        <ul>
+          <li><strong>Quality:</strong> We believe in offering only the best, ensuring that every watch meets the highest standards of design and durability.</li>
+          <li><strong>Passion:</strong> Our love for watches drives us to share the finest timepieces with you.</li>
+          <li><strong>Customer Focus:</strong> From the moment you explore our site to the delivery of your watch, your satisfaction is our top priority.</li>
+        </ul>
+      </div>
+    </div>
+    
+
+  </div>
+
+  <!--FOOTER/CONTACTS-->
+  <footer>
+    <div id="footer-top">
+      <img src="images/logo/web-logo-removebg-preview.png" alt="logo" width="250" height="85">
+      <div id="footer-socials-wrapper">
+        <div class="footer-social">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+          </svg>
+          <span>012 3456 789</span>
+        </div>
+        <div class="footer-social">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-telegram" viewBox="0 0 16 16">
+            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09"/>
+          </svg>
+          <span>Telegram</span>
+        </div>
+        <div class="footer-social">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+            <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
+          </svg>
+          <span>Facebook</span>
+        </div>
+        <div class="footer-social">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15"/>
+          </svg>
+          <span>Twitter</span>
+        </div>
+      </div>
+    </div>
+
+    <div id="footer-bottom">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Shop</a></li>
+        <li><a href="">Contacts</a></li>
+        <li><a href="">About</a></li>
+      </ul>
+      <p>Copyright ©2024 chronoporium. All rights reserved.</p>
+    </div>
+  </footer>
+  
+</body>
+</html>

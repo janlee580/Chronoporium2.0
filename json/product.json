@@ -1,0 +1,75 @@
+[
+  {
+      "id": 0,
+        "name": "Chronomaster Original Triple Calendar",
+        "brand": "Zenith",
+        "collection": "Chronomaster",
+        "reference": "03.3400.3610/40.M3200",
+        "price": 14500 ,
+        "image": "images/zenith/z5-chronomaster-original-triple-calendar.jpg"
+  },
+  {
+      "id": 1,
+      "name": "Cosmograph Daytona",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "126506",
+    "price": 77000,
+    "image": "images/rolex/r6-cosmograph-daytonaplatinum.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Big Bang Integral Ceramic",
+    "brand": "Hublot",
+    "collection": "Big Bang",
+    "reference": "451.GX.5220.GX",
+    "price": 23800 ,
+    "image": "images/hublot/h8-big-bang-integral-ceramic.jpg"
+  },
+  {
+      "id": 3,
+      "name": "Seamaster Calibre 321",
+    "brand": "Omega",
+    "collection": "Speedmaster",
+    "reference": "311.50.39.30.01.001",
+    "price": 80000,
+    "image": "images/omega/o6-speedmaster-calibre-321.jpg"
+  },
+  {
+      "id": 4,
+      "name": "In-Line Perpetual Calendar Watch",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5236P-010",
+    "price": 140300,
+    "image": "images/patek/p2-in-line-perpetual-calendar-watch.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Prospex LX Spring Drive Black",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": "SNR031",
+    "price": 6100,
+    "image": "images/seiko/s8-prospex-lx-spring-drive.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rolex Oyster Perpetual Day-Date 36",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "128395 TBR",
+    "price": 85350,
+    "image": "images/rolex/r8-rolex-oyster-perpetual-day-date-40.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Alarm Travel Time",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5520P",
+    "price": 226400,
+    "image": "images/patek/p7-alarm-travel-time.jpg"
+}
+]
+

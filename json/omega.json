@@ -1,0 +1,74 @@
+[
+  {
+    "id": 24,
+    "name": "Aqua Terra 15,00",
+    "brand": "Omega",
+    "collection": "Seamaster",
+    "reference": "231.10.42.21.01.002",
+    "price": 5500,
+    "image": "images/omega/o1-aqua-terra-15000.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Seamaster Diver 300m",
+    "brand": "Omega",
+    "collection": "Seamaster",
+    "reference": "210.30.42.21.01.0i0",
+    "price": 7100,
+    "image": "images/omega/o2-seamaster-diver-300m.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Seamaster Chronoscope",
+    "brand": "Omega",
+    "collection": "Speedmaster",
+    "reference": "522.30.43.51.02.001",
+    "price": 10800,
+    "image": "images/omega/o3-speedmaster-chronoscope.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Seamaster Planet Ocean 6000M",
+    "brand": "Omega",
+    "collection": "Seamaster",
+    "reference": "215.30.46.21.03.002",
+    "price": 14300,
+    "image": "images/omega/o4-seamaster-planet-ocean-6000m.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Seamaster 300",
+    "brand": "Omega",
+    "collection": "Seamaster",
+    "reference": "234.30.41.21.03.002",
+    "price": 8200,
+    "image": "images/omega/o5-seamaster-300.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Seamaster Calibre 321",
+    "brand": "Omega",
+    "collection": "Speedmaster",
+    "reference": "311.50.39.30.01.001",
+    "price": 80000,
+    "image": "images/omega/o6-speedmaster-calibre-321.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Speedmaster Moonwatch Master Chronometer Professional Chronograph",
+    "brand": "Omega",
+    "collection": "Oyster Perpetual",
+    "reference": "310.30.42.50.01.001",
+    "price": 6200,
+    "image": "images/omega/o7-speedmaster-moonwatch-master-chronometer-professional-chronograph.jpg"
+  },
+  {
+    "id": 31,
+    "name": "The Speedmaster Dark Side Of the Moon Apollo 8",
+    "brand": "Omega",
+    "collection": "Speedmaster",
+    "reference": "311.92.44.30.01.001",
+    "price": 9000,
+    "image": "images/omega/o8-the-speedmaster-dark-side-of-the-moon-apollo-8.jpg"
+  }
+]

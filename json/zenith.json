@@ -1,0 +1,74 @@
+[
+  {
+    "id": 40,
+    "name": "Defy Extreme Diver",
+    "brand": "Zenith",
+    "collection": "Defy",
+    "reference": "95.9600.3620/01.I300",
+    "price": 11800,
+    "image": "images/zenith/z1-defy-extreme-diver.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Defy Skyline Edition Paris",
+    "brand": "Zenith",
+    "collection": "Zenith",
+    "reference": "03.9302.3620/75.I001",
+    "price": 9900,
+    "image": "images/zenith/z2-defy-skyline-edition-paris.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Chronomaster Original Triple Calendar",
+    "brand": "Zenith",
+    "collection": "Chronomaster",
+    "reference": "03.3400.3610/40.M3200",
+    "price": 14500,
+    "image": "images/zenith/z3-zenith-chronomaster-original-triple-calendar.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Zénith Defy Skyline Chronograph",
+    "brand": "Zenith",
+    "collection": "Defy",
+    "reference": "03.9500.3600/51.I001",
+    "price": 13900,
+    "image": "images/zenith/z4-zenith-defy-skyline-chronograph.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Chronomaster Original Triple Calendar",
+    "brand": "Zenith",
+    "collection": "Chronomaster",
+    "reference": "03.3400.3610/40.M3200",
+    "price": 14500 ,
+    "image": "images/zenith/z5-chronomaster-original-triple-calendar.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Defy Extreme Carl Cox",
+    "brand": "Zenith",
+    "collection": "Defy",
+    "reference": "06.9100.9004/21.I001",
+    "price": 32400,
+    "image": "images/zenith/z6-defy-extreme-carl-cox.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Chronomaster Original",
+    "brand": "Zenith",
+    "collection": "Chronomaster",
+    "reference": "03.3200.3600/22.M3200",
+    "price": 10400,
+    "image": "images/zenith/z7-chronomaster-original.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Pilot Big Date Flyback",
+    "brand": "Zenith",
+    "collection": "Pilot",
+    "reference": "49.4000.3652/21.I001",
+    "price": 14500,
+    "image": "images/zenith/z8-pilot-big-date-flyback.jpg"
+  }
+]

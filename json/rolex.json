@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8,
+    "name": "GMT-Master II",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "116719 BLRO",
+    "price": 35000,
+    "image": "images/rolex/r1-gmt-master-ii.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Deepsea",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "116660",
+    "price": 11350,
+    "image": "images/rolex/r2-deepsea.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Oyster Perpetual",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "114300–70400",
+    "price": 4950,
+    "image": "images/rolex/r3-oyster-perpetual.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cosmograph Daytona",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "116500 LN - 78590",
+    "price": 12400,
+    "image": "images/rolex/r4-cosmograph-daytona.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cosmograph Daytona",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "126518LN",
+    "price": 30300 ,
+    "image": "images/rolex/r5-cosmograph-daytonayellow-goldbracelet-oysterflex.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cosmograph Daytona",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "126506",
+    "price": 77000,
+    "image": "images/rolex/r6-cosmograph-daytonaplatinum.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Cosmograph Daytona",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "116503",
+    "price": 16450,
+    "image": "images/rolex/r7-cosmograph-daytona.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Rolex Oyster Perpetual Day-Date 36",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "reference": "128395 TBR",
+    "price": 85350,
+    "image": "images/rolex/r8-rolex-oyster-perpetual-day-date-40.jpg"
+  }
+]

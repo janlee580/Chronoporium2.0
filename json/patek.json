@@ -1,0 +1,74 @@
+[
+  {
+    "id": 32,
+    "name": "Cubitus",
+    "brand": "Patek Philippe",
+    "collection": "Cubitus",
+    "reference": "5821/1A-001",
+    "price": 40900,
+    "image": "images/patek/p1-cubitus-instantaneous-grand-date-day-and-moon-phases.jpg"
+  },
+  {
+    "id": 33,
+    "name": "In-Line Perpetual Calendar Watch",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5236P-010",
+    "price": 140300,
+    "image": "images/patek/p2-in-line-perpetual-calendar-watch.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Chronographe Nautilus",
+    "brand": "Patek Phillipe",
+    "collection": "Nautilus",
+    "reference": "5980/1A",
+    "price": 38760,
+    "image": "images/patek/p3-chronographe-nautilus.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Chronographe à Quantième Annuel",
+    "brand": "Patek Philippe",
+    "collection": "Complicated Watches",
+    "reference": "5960/1A",
+    "price": 46300,
+    "image": "images/patek/p4-chronographe-a-quantieme-annuel.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Quantième Perpétuel Patek Philippe Advanced Research",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5550P",
+    "price": 86190,
+    "image": "images/patek/p5-quantieme-perpetuel-patek-philippe-advanced-research.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Perpetual Calendar Chronograph",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5270J",
+    "price": 153300,
+    "image": "images/patek/p6-perpetual-calendar-chronograph.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Alarm Travel Time",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5520P",
+    "price": 226400,
+    "image": "images/patek/p7-alarm-travel-time.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Montre Alarm Travel Time",
+    "brand": "Patek Philippe",
+    "collection": "Grandes Complications",
+    "reference": "5520RG-001",
+    "price": 257100,
+    "image": "images/patek/p8-montre-alarm-travel-time.jpg"
+  }
+]

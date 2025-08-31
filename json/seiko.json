@@ -1,0 +1,74 @@
+[
+  {
+    "id": 16,
+    "name": "Presage Craftsmanship Series Arita Porcelain",
+    "brand": "Seiko",
+    "collection": "Presage",
+    "reference": "SPB445",
+    "price": 2000 ,
+    "image": "images/seiko/s1-presage-craftsmanship-series-arita-porcelain.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Seiko Prospex Diver's Heritage 1965",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": "SPB455",
+    "price": 1600,
+    "image": "images/seiko/s2-seiko-prospex-diver-s-heritage-1965.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Seiko Prospex Diver's Heritage 1965",
+    "brand": "Seiko",
+    "collection": "prospex",
+    "reference": "SPB453",
+    "price": 1400,
+    "image": "images/seiko/s3-seiko-prospex-diver-s-heritage-1965.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Prospex LX Spring Drive 1965",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": " SNR451",
+    "price": 1400,
+    "image": "images/seiko/s4-seiko-prospex-diver-s-heritage-1965.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Prospex LX Spring Drive GMT",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": "SNR033",
+    "price": 5600,
+    "image": "images/seiko/s5-prospex-lx-spring-drive-gmt.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Prospex LX Spring Drive GMT",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": "SNR027",
+    "price": 5100,
+    "image": "images/seiko/s6-prospex-lx-spring-drive-gmt.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Prospex LX Spring Drive GMT",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": "SNR025",
+    "price": 5100,
+    "image": "images/seiko/s7-prospex-lx-spring-drive-gmt.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Prospex LX Spring Drive Black",
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "reference": "SNR031",
+    "price": 6100,
+    "image": "images/seiko/s8-prospex-lx-spring-drive.jpg"
+  }
+]
